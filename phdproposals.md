@@ -14,6 +14,7 @@ When all this is fullfilled, then I can sign the "Application for admission to d
 
 * * *
 **Algorithm Studies**
+
 Articles 
 - https://doi.org/10.1177/1461444813511926
 - https://doi.org/10.1177/1367549415577392
