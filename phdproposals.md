@@ -22,8 +22,7 @@ Articles
 - [Tarleton Gillespie, The politics of ‘platforms’ (2010)](https://doi.org/10.1177/1461444809342738)
 - [Taina Bucher, Want to be on the top? Algorithmic power and the threat of invisibility on Facebook (2012)](https://doi.org/10.1177/1461444812440159)
 - [Rob Kitchin, Thinking critically about and researching algorithms (2016)](https://doi.org/10.1080/1369118X.2016.1154087) 
-- [Algorithms as culture: Some tactics for the ethnography of algorithmic systems
-Nick Seaver (2017)](https://doi.org/10.1177/2053951717738104)
+- [Nick Seaver, Algorithms as culture: Some tactics for the ethnography of algorithmic systems (2017)](https://doi.org/10.1177/2053951717738104)
 
 More articles
 - Skim through the great peer-reviewed online journal [Computational Culture](http://computationalculture.net/) including my older article on [algorhythmics](http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/).  
