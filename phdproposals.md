@@ -41,7 +41,7 @@ Anthologies/collections
 - [Jussi Parikka, What is Media Archaeology? (2012)](https://politybooks.com/bookdetail/?isbn=9780745650258) 
 - [Media Archaeology Approaches, Applications, and Implications, eds. Erkki Huhtamo/ Jussi Parikka](https://www.ucpress.edu/book/9780520262744/media-archaeology)
 
-**Marxist studies of digitality/ information technology**
+**Further literature on Marxist approaches to digitality/ information technologies**
 - [Nick Dyer-Witheford, Cyber-Marx. Cycles and Circuits of Struggle in High Technology Capitalism (1999)](https://www.press.uillinois.edu/books/catalog/66mwg3pc9780252067952.html)
 - [McKenzie Wark, Capital Is Dead – Is This Something Worse? (2019)](https://www.versobooks.com/books/3056-capital-is-dead) (in general most of McKenzie Wark's works)
 - [Matteo Pasquinelli, On the origins of Marx’s general intellect
