@@ -14,7 +14,6 @@ When all this is fullfilled, then I can sign the "Application for admission to d
 
 * * *
 **Further literature on critical code, algorithm and software studies**
-
 Articles 
 - [Wendy Hui Kyong Chun, On "Sourcery," or Code as Fetish (2008)](https://repository.library.brown.edu/studio/item/bdr:405433/PDF/)
 - [Blake Hallinan, Ted Striphas, Recommended for you: The Netflix Prize and the production of algorithmic culture
@@ -42,10 +41,10 @@ Anthologies/collections
 - [Jussi Parikka, What is Media Archaeology? (2012)](https://politybooks.com/bookdetail/?isbn=9780745650258) 
 - [Media Archaeology Approaches, Applications, and Implications, eds. Erkki Huhtamo/ Jussi Parikka](https://www.ucpress.edu/book/9780520262744/media-archaeology)
 
-**Marxist studies of digitality/ information technolog**
+**Marxist studies of digitality/ information technology**
 - [Nick Dyer-Witheford, Cyber-Marx. Cycles and Circuits of Struggle in High Technology Capitalism (1999)](https://www.press.uillinois.edu/books/catalog/66mwg3pc9780252067952.html)
-- [McKenzie Wark, Capital Is Dead – Is This Something Worse? (2019)](https://www.versobooks.com/books/3056-capital-is-dead)
-- in general most of McKenzie Wark's works
-- 
+- [McKenzie Wark, Capital Is Dead – Is This Something Worse? (2019)](https://www.versobooks.com/books/3056-capital-is-dead) (in general most of McKenzie Wark's works)
+- [Matteo Pasquinelli, On the origins of Marx’s general intellect
+(2019)](https://www.radicalphilosophy.com/wp-content/uploads/2019/12/rp206_pasquinelli.pdf)
 
 
