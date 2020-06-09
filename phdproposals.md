@@ -26,7 +26,7 @@ Articles
 - [Algorithms as culture: Some tactics for the ethnography of algorithmic systems
 Nick Seaver (2017)](https://doi.org/10.1177/2053951717738104)
 
-More articles\
+More articles
 - Skim through the great peer-reviewed online journal [Computational Culture](http://computationalculture.net/) including my older article on [algorhythmics](http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/).  
 
 Monographs
