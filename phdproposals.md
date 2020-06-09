@@ -27,7 +27,7 @@ Articles
 Nick Seaver (2017)](https://doi.org/10.1177/2053951717738104)
 
 More articles\
-Skim through the great peer-reviewed online journal [Computational Culture](http://computationalculture.net/) including my older article on [algorhythmics](http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/).  
+- Skim through the great peer-reviewed online journal [Computational Culture](http://computationalculture.net/) including my older article on [algorhythmics](http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/).  
 
 Monographs
 - [Taina Bucher, If...Then: Algorithmic Power and Politics (2018)](https://www.oxfordscholarship.com/view/10.1093/oso/9780190493028.001.0001/oso-9780190493028) 
