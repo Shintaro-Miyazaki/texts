@@ -26,15 +26,15 @@ Articles
 Nick Seaver (2017)](https://doi.org/10.1177/2053951717738104)
 
 More articles
-Skim through the great peer-revied online journal [Computational Culture](http://computationalculture.net/) including my often cited article on [algorhythmics](http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/).  
+Skim through the great peer-reviewed online journal [Computational Culture](http://computationalculture.net/) including my often cited article on [algorhythmics](http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/).  
 
 Monographs
 - [Taina Bucher, If...Then: Algorithmic Power and Politics (2018)](https://www.oxfordscholarship.com/view/10.1093/oso/9780190493028.001.0001/oso-9780190493028) 
 - [Rob Kitchin and Martin Dodge, Code/Space (2011)](https://mitpress.mit.edu/books/codespace) 
 
 Anthologies/collections
-- https://mitpress.mit.edu/books/software-studies 
-- https://www.routledge.com/The-Routledge-Companion-to-Media-Studies-and-Digital-Humanities/Sayers/p/book/9781138844308 (here Chapters on Software Studies by Matthew Fuller, Critical Code Studies by Mark C. Marino or Critical Unmaking by Jacob Gaboury). Better resource: https://github.com/jentery/routledgeCompanionMSDH/blob/master/toc.md  
+- [Software Studies. A Lexicon, ed. Matthew Fuller (2008)](https://mitpress.mit.edu/books/software-studies), espcially chapters on Algorithm by Andres Goffey;  
+- [The Routledge Companion to Media Studies and Digital Humanities, ed. Jentery Sayers (2018)](https://www.routledge.com/The-Routledge-Companion-to-Media-Studies-and-Digital-Humanities/Sayers/p/book/9781138844308), here chapters on Software Studies by Matthew Fuller, Critical Code Studies by Mark C. Marino or Critical Unmaking by Jacob Gaboury). Better resource: https://github.com/jentery/routledgeCompanionMSDH/blob/master/toc.md  
 
-
+**Further literature on media archaelogy**
 
