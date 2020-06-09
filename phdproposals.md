@@ -17,11 +17,13 @@ When all this is fullfilled, then I can sign the "Application for admission to d
 
 Articles 
 - [Blake Hallinan, Ted Striphas, Recommended for you: The Netflix Prize and the production of algorithmic culture
-](https://doi.org/10.1177/1461444814538646)
-- https://doi.org/10.1177/1461444813511926
-- https://doi.org/10.1177/1367549415577392
-- https://doi.org/10.1080/1369118X.2016.1154087 
-- https://doi.org/10.1177/2053951717738104 
+(2018)](https://doi.org/10.1177/1461444814538646)
+- [Lilly Irani, The cultural work of microwork (2013)](https://doi.org/10.1177/1461444813511926)
+- [Tarleton Gillespie, The politics of ‘platforms’ (2010)](https://doi.org/10.1177/1461444809342738)
+- [Taina Bucher, Want to be on the top? Algorithmic power and the threat of invisibility on Facebook (2012)](https://doi.org/10.1177/1461444812440159)
+- [Rob Kitchin, Thinking critically about and researching algorithms (2016)](https://doi.org/10.1080/1369118X.2016.1154087) 
+- [Algorithms as culture: Some tactics for the ethnography of algorithmic systems
+Nick Seaver (2017)](https://doi.org/10.1177/2053951717738104)
 
 Monographs
 - https://www.oxfordscholarship.com/view/10.1093/oso/9780190493028.001.0001/oso-9780190493028 
