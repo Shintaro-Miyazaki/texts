@@ -33,7 +33,7 @@ Monographs
 - [Rob Kitchin and Martin Dodge, Code/Space (2011)](https://mitpress.mit.edu/books/codespace) 
 
 Anthologies/collections
-- [Software Studies. A Lexicon, ed. Matthew Fuller (2008)](https://mitpress.mit.edu/books/software-studies), espcially chapters on Algorithm by Andres Goffey;  
+- [Software Studies. A Lexicon, ed. Matthew Fuller (2008)](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf), espcially the "Introduction, the Stuff of Software" and the chapter on Algorithm by Andres Goffey.  
 - [The Routledge Companion to Media Studies and Digital Humanities, ed. Jentery Sayers (2018)](https://www.routledge.com/The-Routledge-Companion-to-Media-Studies-and-Digital-Humanities/Sayers/p/book/9781138844308), here chapters on Software Studies by Matthew Fuller, Critical Code Studies by Mark C. Marino or Critical Unmaking by Jacob Gaboury). Better resource: https://github.com/jentery/routledgeCompanionMSDH/blob/master/toc.md  
 
 
