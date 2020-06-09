@@ -14,8 +14,7 @@ When all this is fullfilled and I accept the proposal, then I can sign your "App
 
 
 * * *
-**Further literature on critical code, algorithm and software studies**
-
+**Further literature on critical code, algorithm and software studies**\
 Articles 
 - [Wendy Hui Kyong Chun, On "Sourcery," or Code as Fetish (2008)](https://repository.library.brown.edu/studio/item/bdr:405433/PDF/)
 - [Blake Hallinan, Ted Striphas, Recommended for you: The Netflix Prize and the production of algorithmic culture
@@ -27,7 +26,7 @@ Articles
 - [Algorithms as culture: Some tactics for the ethnography of algorithmic systems
 Nick Seaver (2017)](https://doi.org/10.1177/2053951717738104)
 
-More articles
+More articles\
 Skim through the great peer-reviewed online journal [Computational Culture](http://computationalculture.net/) including my older article on [algorhythmics](http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/).  
 
 Monographs
